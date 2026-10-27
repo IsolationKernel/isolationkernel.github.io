@@ -53,4 +53,4 @@ Given the above background, the workshop aims to discuss the following issues:
 
 ## Funding Support
 
-- National Natural Science Foundation of China Grant No. 92470116 & W2531050
+- National Natural Science Foundation of China, Grant No. 92470116 & W2531050
