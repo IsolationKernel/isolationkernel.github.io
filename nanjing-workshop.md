@@ -13,7 +13,7 @@ permalink: /nanjing-workshop/
 
 Research in clustering has progressed significantly since 1957, with the introduction of Lloyd’s algorithm [[1]](#ref-1). Over the decades, the field has evolved from k-means clustering and Gaussian mixture models to density-based clustering, spectral clustering, support vector clustering, and, more recently, deep clustering. Despite this methodological evolution, several fundamental questions have persisted.
 
-The definition of clustering as “the grouping of similar objects” [[2]](#ref-2) has served as a starting point for much of the field, including (i) the design of clustering algorithms; (ii) computational complexity analyses showing that many fundamental clustering optimization problems are NP-hard; and (iii) axiomatic analyses, including the Impossibility Theorem for Clustering, which shows that no clustering function can satisfy three natural axioms simultaneously [[3]](#ref-3).
+The definition of clustering as “the grouping of similar objects” [[2]](#ref-2) has served as a starting point for much of the field, including (i) the design of clustering algorithms; (ii) computational complexity analyses showing that many fundamental clustering optimization problems are NP-hard; and (iii) axiomatic analyses, including the Impossibility Theorem for Clustering, which show that no clustering function can satisfy three natural axioms simultaneously [[3]](#ref-3).
 
 At the same time, despite nearly 70 years of research, the prevailing choice for very large-scale datasets remains, at least until recently, k-means or one of its scalable variants. This is not because it produces the best clustering outcomes, but because it offers a particularly attractive trade-off between simplicity, computational efficiency, and scalability in the face of increasingly large data volumes.
 
@@ -46,3 +46,11 @@ Given the above background, the workshop aims to discuss the following issues:
 - Kai Ming Ting, School of ArtificiaI Intelligence, Nanjing University, China
 - Daniel Aloise, Department of Computer Engineering and Software Engineering, Polytechnique Montréal, Canada
 - Ricardo J.G.B. Campello, Department of Mathematics and Computer Science, University of Southern Denmark, Denmark
+
+## General Chair
+
+- Jianxin Wu, School of ArtificiaI Intelligence, Nanjing University, China
+
+## Funding Support
+
+- National Natural Science Foundation of China Grant No. 92470116 & W2531050
